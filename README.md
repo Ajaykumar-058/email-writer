@@ -1,3 +1,8 @@
+Here's your updated `README.md` file with your Loom video link embedded properly in the **Demo Video** section:
+
+---
+
+```markdown
 # 📧 Email Writer
 
 ## 📌 Overview
@@ -12,15 +17,15 @@ Email Writer is a web application that leverages the **Gemini API** to generate 
 
 ## 🛠 Tech Stack
 ### Backend:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) Java
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) Spring Boot
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) Java  
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) Spring Boot  
 - 🔗 WebClient for API calls
 
 ### Frontend:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) React
-- ⚡ Vite
-- ![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat&logo=mui&logoColor=white) Material-UI
-- 🌍 Axios
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) React  
+- ⚡ Vite  
+- ![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat&logo=mui&logoColor=white) Material-UI  
+- 🌍 Axios  
 
 ## 📥 Installation
 
@@ -84,7 +89,8 @@ Ensure you have the following installed:
 
 ## 🎥 Demo Video
 Check out the demo video of Email Writer in action:
-[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=flat&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK_HERE)
+
+[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.loom.com/share/674dd171792b43b2bbbe8201ef2eaeb0?sid=c1d75c0d-4ecf-44fc-a343-09757b6ba89e)
 
 ## ⚠️ Troubleshooting
 ### 🛑 Common Issues
@@ -128,4 +134,8 @@ This project is licensed under the **MIT License**.
 
 ## 📩 Contact
 For any inquiries, reach out via **GitHub Issues** or contact **ajaykumarbaleboina@gmail.com**.
+```
 
+---
+
+Let me know if you'd like a downloadable version or want help creating badges, adding screenshots, or improving visuals!
