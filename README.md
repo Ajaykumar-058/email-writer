@@ -1,7 +1,7 @@
 # 📧 Email Writer
 
 ## 📌 Overview
-Email Writer is a web application that leverages the **Gemini API** to generate professional email responses based on user input. Built with **Spring Boot** for the backend and **React** for the frontend, this project provides a seamless user experience for generating AI-powered email replies.
+Email Writer is a web application that leverages the **Gemini API** to generate professional email responses based on user input. Built with **Spring Boot** for the backend and **React** for the frontend, this project provides a seamless user experience for generating AI-powered email replies. Additionally, this project is designed as a **Chrome Extension**, allowing users to generate email responses directly from their browser.
 
 ## 🚀 Features
 - 🤖 **AI-powered** email response generation using the **Gemini API**.
@@ -127,5 +127,5 @@ We welcome contributions! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-For any inquiries, reach out via **GitHub Issues** or contact **Ajay Kumar (ajaykumarbaleboina@gmail.com)**.
+For any inquiries, reach out via **GitHub Issues** or contact **Ajay Kumar**.
 
