@@ -4,31 +4,31 @@
 Email Writer is a web application that leverages the **Gemini API** to generate professional email responses based on user input. Built with **Spring Boot** for the backend and **React** for the frontend, this project provides a seamless user experience for generating AI-powered email replies.
 
 ## 🚀 Features
-- 🤖 AI-powered email response generation using the **Gemini API**.
-- 🌐 RESTful API with **Spring Boot**.
-- 🎨 Modern and responsive UI built with **React**.
-- 🔒 Secure API integration.
-- 🎭 Supports different tones for generated emails.
+- 🤖 **AI-powered** email response generation using the **Gemini API**.
+- 🌐 **RESTful API** with **Spring Boot**.
+- 🎨 **Modern and responsive UI** built with **React**.
+- 🔒 **Secure API integration**.
+- 🎭 **Supports different tones** for generated emails.
 
 ## 🛠 Tech Stack
 ### Backend:
-- ☕ Java
-- 🏗 Spring Boot
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) Java
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) Spring Boot
 - 🔗 WebClient for API calls
 
 ### Frontend:
-- ⚛️ React
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) React
 - ⚡ Vite
-- 🎨 Material-UI
+- ![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat&logo=mui&logoColor=white) Material-UI
 - 🌍 Axios
 
 ## 📥 Installation
 
 ### Prerequisites
 Ensure you have the following installed:
-- **☕ Java 17+**
-- **🟢 Node.js** (latest LTS version recommended)
-- **📦 Maven**
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) **Java 17+**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) **Node.js** (latest LTS version recommended)
+- ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white) **Maven**
 
 ### Backend Setup
 1. Clone the repository:
@@ -82,6 +82,10 @@ Ensure you have the following installed:
   }
   ```
 
+## 🎥 Demo Video
+Check out the demo video of Email Writer in action:
+[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=flat&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK_HERE)
+
 ## ⚠️ Troubleshooting
 ### 🛑 Common Issues
 1. **Spring Boot Application Fails to Start**
@@ -123,5 +127,5 @@ We welcome contributions! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-For any inquiries, reach out via **GitHub Issues** or contact **Ajay Kumar**.
+For any inquiries, reach out via **GitHub Issues** or contact **Ajay Kumar (ajaykumarbaleboina@gmail.com)**.
 
