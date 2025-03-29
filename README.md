@@ -105,7 +105,7 @@ To deploy the application:
 1. **Backend:**
    - 🛆 Package the Spring Boot application:
      ```sh
-     mvn package
+     mvn clean install
      ```
    - ☁️ Deploy the generated JAR file to **Render** or any cloud provider.
 
