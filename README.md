@@ -127,5 +127,5 @@ We welcome contributions! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-For any inquiries, reach out via **GitHub Issues** or contact **Ajay Kumar**.
+For any inquiries, reach out via **GitHub Issues** or contact **ajaykumarbaleboina@gmail.com**.
 
